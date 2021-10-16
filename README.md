@@ -1,5 +1,8 @@
 # Credit-Card-Fraud-Detection
 
+# Objective
+Recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+
 # Dataset: [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 The dataset contains 492 frauds case out of 284,807 transactions. Its features name is not given due to privacy reason. The dataset is highly unbalanced. Unbalanced data may be balanced by techniques like:
 <h3>Ramdom Oversampling</h3> 
